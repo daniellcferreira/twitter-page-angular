@@ -36,3 +36,4 @@ A aplicação não possui backend e os dados são armazenados apenas em memória
 - **CSS3**: Estilização complementar quando necessário
 
 Cada tecnologia foi escolhida para proporcionar uma arquitetura moderna, escalável e de fácil manutenção, com foco no desenvolvimento front-end moderno baseado em componentes.
+
